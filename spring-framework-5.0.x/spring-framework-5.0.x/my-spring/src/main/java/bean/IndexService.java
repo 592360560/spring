@@ -9,6 +9,6 @@ public class IndexService {
 	MainService mainService;
 
 	public IndexService() {
-		System.out.println("new MainService");
+		System.out.println("new indexService()");
 	}
 }
